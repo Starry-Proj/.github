@@ -1,5 +1,6 @@
 ## Starry Project 🌟
 Starry is a highly powerful free and paid Roblox script that contains the best features out of any script you've seen.
+<br>You can support us for absolutely free by starring our repository ❤️
 - Got a feature another script does, but we don't? **Show us, we'll make it.**
 
 ## Supported Games 🎮
@@ -41,6 +42,14 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
 ## Community Server 💫
 Join our community of over **1,000** people! Get the latest information about Starry, upcoming games, and even recommend your own games you'd like to see added to our project!
 - Join us today on Discord at [discord.gg/D657Dd8T](https://discord.gg/D657Dd8T)
+
+## Script 📜
+Use Starry today using the script below ✨
+### Free Edition
+```lua
+getgenv().ignoreGameCheck = false
+loadstring(game:HttpGet("https://luau.tech/build"))()
+```
 
 ## Contributors 🛠️
 Thank you to all developers of Starry for helping to keep this project alive.
