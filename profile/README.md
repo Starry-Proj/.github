@@ -10,7 +10,7 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
 > <br>however, all other features work as intended.<br><br>
 > In addition, **you may get banned**, even when the Client AC is disabled.
 
-**[Tower of Hell](https://www.roblox.com/games/1962086868/Tower-of-Hell)** - **22+ features**
+**[Tower of Hell](https://www.roblox.com/games/1962086868/Tower-of-Hell)** - **25+ features**
 <details>
   <summary><b>View All Features</b></summary>
   <br>
@@ -19,6 +19,7 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
   - <b>Win</b><br>
   - <b>Change TP Method</b><br>
   - <b>Change Farming Method</b><br>
+  - <b>UI Status Information</b><br>
   - <b>Disable Speed Mutator</b><br>
   - <b>Disable Gravity Mutator</b><br>
   - <b>Disable Bunny Hop Mutator</b><br>
@@ -26,16 +27,20 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
   - <b>Walkspeed</b><br>
   - <b>Jumppower</b><br>
   - <b>Goto Game Type</b><br>
+  - <b>Promote Starry</b><br>
   - <b>Give Gear</b><br>
   - <b>Give Hidden Gear</b><br>
   - <b>Godmode</b><br>
   - <b>Auto Play Stacker</b><br>
+  - <b>Auto Promote after Win</b><br>
   - <b>Fling Player</b><br>
   - <b>Change ScreenSaver Icon</b><br>
   - <b>XP Stat Tracker</b><br>
   - <b>Coins Stat Tracker</b><br>
   - <b>Levels Stat Tracker</b><br>
   - <b>Disable Conveyors</b><br>
+  - <b>Goto Stage</b><br>
+  - <b>Open Shop</b><br>
   - <b>Extra Jumps</b>
 </details>
 
