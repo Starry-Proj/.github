@@ -10,6 +10,52 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
 > <br>however, all other features work as intended.<br><br>
 > In addition, **you may get banned**, even when the Client AC is disabled.
 
+**[Break In 2]()** - **40+ features**
+<details>
+  <summary><b>View All Features</b></summary>
+  - <b>Total Badges Collected</b><br>
+  - <b>Instantly Load</b><br>
+  - <b>Quickest Ride</b><br>
+  - <b>Join Specific Bus</b><br>
+  - <b>Leave Current Bus</b><br>
+  - <b>Swap Outfits on Role Change</b><br>
+  - <b>Choose a Paid Role</b><br>
+  - <b>Pick a Free Role</b><br>
+  - <b>Change Animation</b><br>
+  - <b>Accept Uncle Pete's Quest</b><br>
+  - <b>Unlock Custom NPC</b><br>
+  - <b>Unlock All NPCs</b><br>
+  - <b>Open Secret Door</b><br>
+  - <b>Disable Ice Slip</b><br>
+  - <b>Fullbright</b><br>
+  - <b>Collect Outsite Foods</b><br>
+  - <b>Global Teleports</b><br>
+  - <b>Spoof Indoors</b><br>
+  - <b>Teleport to Player</b><br>
+  - <b>Heal Player</b><br>
+  - <b>Godmode</b><br>
+  - <b>Upgrade Buff of Choice</b><br>
+  - <b>Max Buffs</b><br>
+  - <b>Visually Show Speed</b><br>
+  - <b>Kill Nearby Enemies</b><br>
+  - <b>Kill Aura</b><br>
+  - <b>Kill Bosses</b><br>
+  - <b>Kill Pizza Boss</b><br>
+  - <b>Give Best Weapon</b><br>
+  - <b>Equip Armor</b><br>
+  - <b>Heal Everyone</b><br>
+  - <b>Infinite Golden Pizza</b><br>
+  - <b>Stack on Foods</b><br>
+  - <b>Spin Bad Guys</b><br>
+  - <b>Kick Player</b><br>
+  - <b>Kick Everyone</b><br>
+  - <b>Delete Entire Map</b><br>
+  - <b>Delete Item</b><br>
+  - <b>Squash Player</b><br>
+  - <b>Slip on Ice</b><br>
+  - <b>Give Area Item</b>
+</details>
+
 **[Tower of Hell](https://www.roblox.com/games/1962086868/Tower-of-Hell)** - **25+ features**
 <details>
   <summary><b>View All Features</b></summary>
