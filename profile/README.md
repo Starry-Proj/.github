@@ -10,6 +10,8 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
 > <br>however, all other features work as intended.<br><br>
 > In addition, **you may get banned**, even when the Client AC is disabled.
 
+> We are aware of some games missing from the list, these will be updated soon.
+
 **[Break In 2]()** - **40+ features**
 <details>
   <summary><b>View All Features</b></summary>
@@ -110,5 +112,5 @@ loadstring(game:HttpGet("https://luau.tech/build"))()
 
 ## Contributors 🛠️
 Thank you to all developers of Starry for helping to keep this project alive.
-1. [**Zade** (xootzie)](https://github.com/xootzie) - Idea Specialist, Developer, Server Owner, Logo Designer
+1. [**Zade** (xootzie)](https://github.com/xootzie) - Idea Specialist, Developer, Server Owner, Logo Designer, Web Developer & Designer
 3. [**Suno**](https://github.com/mr-suno) - Founder, Lead Developer, UI/UX Designer
