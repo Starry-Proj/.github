@@ -113,4 +113,5 @@ loadstring(game:HttpGet("https://luau.tech/build"))()
 ## Contributors 🛠️
 Thank you to all developers of Starry for helping to keep this project alive.
 1. [**Zade** (xootzie)](https://github.com/xootzie) - Idea Specialist, Developer, Server Owner, Logo Designer, Web Developer & Designer
+2. [**Imperial**](https://discord.com/users/1021278070428147753) - Developer
 3. [**Suno**](https://github.com/mr-suno) - Founder, Lead Developer, UI/UX Designer
