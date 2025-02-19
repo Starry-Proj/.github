@@ -9,17 +9,16 @@ Join our community of over **400** people! Get the latest information about Star
 ## Script 📜
 Use Starry today using the script below ✨
 ### Free Edition
-**`getgenv().ignoreGameCheck`** controls whether the script detects supported games. When set to:
+**`slipGameCheck`** controls whether the script detects supported games. When set to:
 - **`false`**: Only runs features for the specific supported game
 - **`true`**: Attempts to run universal features across any game
 
 ```lua
-getgenv().ignoreGameCheck = false
+skipGameCheck = false;
 loadstring(game:HttpGet("https://luau.tech/build"))()
 ```
 
 ## Contributors 🛠️
 Thank you to all developers of Starry for helping to keep this project alive.
 1. [**Zade** (xootzie)](https://github.com/xootzie) - Idea Specialist, Developer, Server Owner, Logo Designer, Web Developer & Designer
-2. [**Imperial**](https://discord.com/users/1021278070428147753) - Developer
-3. [**Suno**](https://github.com/mr-suno) - Founder, Lead Developer, UI/UX Designer
+2. [**Suno**](https://github.com/mr-suno) - Founder, Lead Developer, UI/UX Designer
