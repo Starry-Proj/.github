@@ -14,8 +14,18 @@ Use Starry today using the script below ✨
 - **`true`**: Attempts to run universal features across any game
 
 ```lua
-skipGameCheck = false;
-loadstring(game:HttpGet("https://luau.tech/build"))()
+-- Starry's Stable Ed. | User Build | Using Latest Ver. --
+
+skipGameCheck = false; -- Change to "true" when desiring Universal-only!
+
+local project = "luau.tech";
+loadstring(request({
+  Url = `https://{project}/build`,
+  Method = "GET"
+}).Body)();
+
+-- Purchase Premium & skip keys @ luau.tech/pricing --
+-- Starry produced by Suno & Zade ✨ --
 ```
 
 ## Contributors 🛠️
