@@ -9,7 +9,7 @@ Join our community of over **4,000** people! Get the latest information about St
 ## Script 📜
 Use Starry today using the script below ✨
 ### Free Edition
-**`slipGameCheck`** controls whether the script detects supported games. When set to:
+**`skipGameCheck`** controls whether the script detects supported games. When set to:
 - **`false`**: Only runs features for the specific supported game
 - **`true`**: Attempts to run universal features across any game
 
