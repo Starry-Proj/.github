@@ -3,7 +3,7 @@ Starry is a highly powerful free and paid Roblox script that contains the best f
 <br>Support us for absolutely free by starring our repository ❤️
 
 ## Community Server 💫
-Join our community of over **400** people! Get the latest information about Starry, upcoming games, and even recommend your own games you'd like to see added to our project!
+Join our community of over **4,000** people! Get the latest information about Starry, upcoming games, and even recommend your own games you'd like to see added to our project!
 - Join us today on Discord at [discord.gg/luau](https://discord.gg/luau)
 
 ## Script 📜
