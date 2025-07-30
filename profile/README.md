@@ -17,14 +17,13 @@ Use Starry today using the script below ✨
 - **`true`**: Attempts to run universal features across any game
 
 ```lua
-skipGameCheck = false;
-loadstring(game:HttpGet("https://luau.tech/build"))();
+--> Starry is no longer usable as of June of 2025. <--
+--  Instead, check out Starlight! 🌸
 
--- Purchase Premium & skip keys @ luau.tech/pricing --
--- Starry procuded by Suno & Zade ✨ --
+--~ https://luau.tech/ | https://discord.gg/luau ~--
 ```
 
 ## Contributors 🛠️
 Thank you to all developers of Starry for helping to keep this project alive.
 1. [**Zade** (xootzie)](https://github.com/xootzie) - Idea Specialist, Developer, Server Owner, Logo Designer, Web Developer & Designer
-2. [**Suno**](https://github.com/mr-suno) - Founder, Lead Developer, UI/UX Designer
+2. [**Suno**](https://github.com/sily-lily) - Founder, Lead Developer, UI/UX Designer
